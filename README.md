@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 ### Technologies and Tools
 
+| Category             |   Tools          |
+| ---------------------| -----------------|
+| Cloud                |  AWS             |
+| Languages            | Python, Java     |
+| Version Control      |                  |
 
 ### My projects
 
