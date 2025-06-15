@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Technologies and Tools
+
+
+### My projects
+
+| Terraform/AWS Projects    |   CI/CD Projects    |
+| -------------              | -------------      | 
+|[AWS three tier web architecture using Terraform](https://github.com/jhuang2019/aws-three-tier-web-architecture)|[How to deploy a containerized application to AWS Elastic Kubernetes Service (EKS) with ArgoCD, GitHub Actions, and Terraform](https://github.com/jhuang2019/create-an-eks-cluster-using-terraform)|
+
+
+
