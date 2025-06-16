@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 | Category             |   Technologies and Tools          |
 | ---------------------| -----------------|
 | Cloud                | AWS (EC2, Lambda, ECR, EKS,ECS, S3, EBS, EFS, VPC, IAM, KMS, RDS, DynamoDB, Parameter Store, Secrets Manager, Certificate Manager, SNS, CodeBuild, CodeCommit, CodePipeline)             |
-|Operaqting Systems    | Linux and Windows|
+|Operating Systems    | Linux and Windows|
 | Programming Languages| Python, JavaScript,Java, and Shell scripting|
 | Version Control       | Git                 |
-| Infrastruce as code  | Terraform, AWS CDK and Ansible|
+| Infrastructure as Code  | Terraform, AWS CDK and Ansible|
 | CI/CD Pipelines           | Github Actions, Bamboo, Jenkins|
 | Containers           |Docker                |
 |Container Orchestration|Kubernetes, AWS EKS, AWS ECS and Rancher|
 |Kubernetes Package Manager| Helm, ArgoCD |
 |Monitoring|New Relic, Grfana, Prometheus, AWS Cloud Watch and Sysdig|
 |Logging|Splunk|
-|Security scanning|Snyk, Tenable and CrowdStrike|
+|Security Scanning|Snyk, Tenable and CrowdStrike|
 |Test automation|Selenium|
 
 
