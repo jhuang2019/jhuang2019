@@ -16,11 +16,22 @@ Here are some ideas to get you started:
 -->
 ### Technologies and Tools
 
-| Category             |   Tools          |
+| Category             |   Technologies and Tools          |
 | ---------------------| -----------------|
-| Cloud                |  AWS             |
-| Languages            | Python, Java     |
-| Version Control      |                  |
+| Cloud                | AWS (EC2, Lambda, ECR, EKS,ECS, S3, EBS, EFS, VPC, IAM, KMS, RDS, DynamoDB, Parameter Store, Secrets Manager, Certificate Manager, SNS, CodeBuild, CodeCommit, CodePipeline)             |
+|Operaqting Systems    | Linux and Windows|
+| Programming Languages| Python, JavaScript,Java, and Shell scripting|
+| Version Control       | Git                 |
+| Infrastruce as code  | Terraform, AWS CDK and Ansible|
+| CI/CD Pipelines           | Github Actions, Bamboo, Jenkins|
+| Containers           |Docker                |
+|Container Orchestration|Kubernetes, AWS EKS, AWS ECS and Rancher|
+|Kubernetes Package Manager| Helm, ArgoCD |
+|Monitoring|New Relic, Grfana, Prometheus, AWS Cloud Watch and Sysdig|
+|Logging|Splunk|
+|Security scanning|Snyk, Tenable and CrowdStrike|
+|Test automation|Selenium|
+
 
 ### My projects
 
