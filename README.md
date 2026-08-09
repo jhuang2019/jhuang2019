@@ -18,18 +18,22 @@ Here are some ideas to get you started:
 
 | Category             |   Technologies and Tools          |
 | ---------------------| -----------------|
-| Cloud                | AWS (EC2, Lambda, ECR, EKS,ECS, S3, EBS, EFS, VPC, IAM, KMS, RDS, DynamoDB, Parameter Store, Secrets Manager, Certificate Manager, SNS, CodeBuild, CodeCommit, CodePipeline)             |
 |Operating Systems    | Linux and Windows|
-| Programming Languages| Python, JavaScript,Java, and Shell scripting|
+|Networking Basics    | TCP/IP, DNS,HTTP/HTTPS,Load Balancers, Firewalls,Reverse Proxies, SSL/TLS |
 | Version Control       | Git                 |
-| Infrastructure as Code  | Terraform, AWS CDK and Ansible|
-| CI/CD Pipelines           | Github Actions, Bamboo, Jenkins|
+| Programming & Scripting | Python, JavaScript,TypeScript, Java, and Shell scripting|
+| Cloud (AWS)               | EC2, Lambda, ECR, EKS,ECS, S3, EBS, EFS, VPC, IAM, KMS, RDS, DynamoDB, Parameter Store, Secrets Manager, Certificate Manager, SNS, CodeBuild, CodeCommit, CodePipeline             |
+| Cloud (GCP)               | IAM, Cloud Run, Artifact Registry，Secret Manager, Cloud KMS, VPC, Cloud Build            |
 | Containers           |Docker                |
-|Container Orchestration|Kubernetes, AWS EKS, AWS ECS and Rancher|
-|Kubernetes Package Manager| Helm, ArgoCD |
-|Monitoring|New Relic, Grfana, Prometheus, AWS Cloud Watch and Sysdig|
+|Container Orchestration & Management |Kubernetes, AWS EKS, AWS ECS and Rancher|
+|Kubernetes Package Manager| Helm|
+|GitOps & Continuous Delivery| ArgoCD |
+| CI/CD  | GitHub Actions, Bamboo, Jenkins|
+| Infrastructure as Code  | Terraform, AWS CDK |
+| Configuration Management & Automation  | Ansible|
+|Monitoring & Observability |New Relic, Grfana, Prometheus, AWS Cloud Watch and Sysdig|
 |Logging|Splunk|
-|Security Scanning|Snyk, Tenable and CrowdStrike|
+|Security & Vulnerability Management|Snyk, Tenable and CrowdStrike|
 |Test automation|Selenium|
 
 
