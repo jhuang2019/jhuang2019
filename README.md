@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   * [AWS three tier web architecture using Terraform](https://github.com/jhuang2019/aws-three-tier-web-architecture)
 * Kubernets Projects
   * [How to set up a local Multi-node Minikube Kubernetes environment on a Mac with M2 chip](https://github.com/jhuang2019/local-minikube-mac)
-  * [How to deploy an application on Kubernetes via three options](https://github.com/jhuang2019/deploying-an-application-on-kubernetes)
+  * How to deploy an application on Kubernetes via three options - WIP
 * CI/CD Projects 
   * [How to deploy a containerized application to AWS Elastic Kubernetes Service (EKS) with ArgoCD, GitHub Actions, and Terraform](https://github.com/jhuang2019/create-an-eks-cluster-using-terraform)
 
